@@ -45,11 +45,14 @@ LiDAR scans are recorded at 10 Hz. WIO and IMU are recorded at 50~Hz in the Urba
 <img src="../images/husky_equpiment.jpg" alt="drawing" width="400"/>
 
 ### Equipment
-- 3 on-board [Velodyne’s Puck lidar sensor (VLP-16)](https://velodynelidar.com/products/puck/) LiDAR sensors (one flat, one pitched forward ~30 &deg;, one pitched backward ~30 &deg;).
+- 3 on-board [Velodyne’s Puck lidar sensor (VLP-16)](https://velodynelidar.com/products/puck/) LiDAR sensors (one flat, one pitched forward ~30 &deg;, one pitched backward ~30 &deg;)  
+  - ```velodyne```
+  - ```velodyne_front```
+  - ```velodyne_rear```
 - 6 on-board cameras: 5 RealSense D455 (DATASET FOR THIS IS NOT AVAILABLE)
 - IMU
 - wheel encoders
-
+- Some datasets feature as well [Hovermap](https://www.emesent.io/hovermap/) for Husky. (see details [here](dataset.md))
 
 ## Spot
   <img src="../images/spot_equipment.png" alt="drawing" width="400"/>
@@ -59,5 +62,5 @@ LiDAR scans are recorded at 10 Hz. WIO and IMU are recorded at 50~Hz in the Urba
 - Out-of-the-box kinematic-ineratial odometry (KIO) and visual-inertial odometry (VIO) measurements implemented by [Boston Dynamics](https://www.bostondynamics.com/) 
 - 6 on-board cameras: 5 RealSense D455 (DATASET FOR THIS IS NOT AVAILABLE)
 - IMU
-
+- Some datasets feature as well [Hovermap](https://www.emesent.io/hovermap/) for Spot. (see details [here](dataset.md))
 
