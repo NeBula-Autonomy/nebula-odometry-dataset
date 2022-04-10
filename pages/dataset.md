@@ -31,6 +31,12 @@ Here, you can download the datasets.
  
 # Ground truth
 
-To determine the ground truth of the robot in the environment, a survey-grade $3D$ map (provided by DARPA in the Subterranean Challenge or produced by the team) is used.
-The ground-truth trajectory is produced by running LOCUS  against the survey-grade map (i.e., scan-to-map is scan-to-survey-map). In this mode, LOCUS is tuned for maximum accuracy at the cost of computational efficiency, as it does not need to be run in real-time.  
-The ground truth trajectory of the robot is determined based on LOCUS and its multi-stage registration technique: scan-to-scan and scan-to-map (with high computational parameters and slower pace of data processing) and some manual post-processing work.
+To determine the ground truth of the robot in the environment, a survey-grade $3D$ map (provided by DARPA in the Subterranean Challenge or produced by the team) is used (see Extra files).
+The ground-truth trajectory is produced by running [LOCUS](https://github.com/NeBula-Autonomy/LOCUS) against the survey-grade map (i.e., scan-to-map is scan-to-survey-map). In this mode, LOCUS is tuned for maximum accuracy at the cost of computational efficiency, as it does not need to be run in real-time.  
+
+# Recorded topics
+
+
+# Extrinsic Calibration
+
+# Initial Pose

@@ -1,7 +1,6 @@
 # NeBula odometry dataset
 
 - [Overview](pages/overview.md)
-- [Robots](pages/robots.md)
 - [Download dataset](pages/dataset.md)
 - [How to run](pages/run.md)
 
