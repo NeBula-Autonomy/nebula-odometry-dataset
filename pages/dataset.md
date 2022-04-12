@@ -1,10 +1,16 @@
+<p align="center">
+<img src="../images/all_robots2.png" alt="drawing" width="1000"/>
+</p>
+
 # Datasets
 
 Here, you can download the datasets. 
 - ```Rosbags``` - bag files to run
-- ```Ground truth``` - rosbag file **odometry.bag** that has a ground truth trajectory
-- ```Sensor calibration files``` - stores information about relative transformation between frames and sensors
-- ```Extra files``` - 3D map provides information of the scanned 3D map
+- ```Extra files```:
+  - ```odometry.bag``` - rosbag file that has a ground truth trajectory
+  - ```*.ply```, ```*.pcd``` - 3D map provides information of the scanned 3D map
+  - ```fiducial_calibration_${robot_name}$.yaml``` - provides information of inital position in the map (and from where the ground truth starts)
+  - ```${robot_name}_sensors.yaml``` - stores information about relative transformation between frames and sensors
 - ```2D image``` - provides information of the enviornment from bird's-eye-view
 
 # LiDARs dataset

@@ -1,3 +1,7 @@
+<p align="center">
+<img src="images/all_robots2.png" alt="drawing" width="1000"/>
+</p>
+
 # NeBula odometry dataset
 
 - [Overview](pages/overview.md)
@@ -14,3 +18,17 @@
   publisher={TODO}
 }
 ```
+# TODO
+
+- [ ] overview: 
+  - [ ] check geo-localization (Ben)
+  - [ ] cut elma photo (Andrzej)
+  - [ ] better right photo valentine (Ben?)
+  - [ ] better photo for Kentucky (Ben)
+  - [ ] one photo from darpa subt challenge of the enviornment (Ben)
+  - [ ] check robot equipment (Ben)
+- [ ] datasets:
+  - [ ] check ground truth and config params (Andrzej)
+  - [ ] Add transformation convention + draw images (Andrzej) 
+  - [ ] For darpa challenges ```${robot_name}_sensors.yaml``` (Ben & Andrzej) for calibration
+  - [ ] rename some topics in D and F dataset since it will confuse the user

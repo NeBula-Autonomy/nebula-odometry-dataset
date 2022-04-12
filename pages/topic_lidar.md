@@ -24,13 +24,13 @@
   - ```${robot_name}/vn100/imu ```
   - ```${robot_name}/vn100/imu_wori_wcov ```
   - Topics that you shouldn't care about
-    - ```${robot_name}/resiliency_logic/debug```
-    - ```${robot_name}/resiliency_logic/resiliency_status```
+    - ```${robot_name}/resiliency_logic/debug```  (not available in D and F)
+    - ```${robot_name}/resiliency_logic/resiliency_status```  (not available in D and F)
 - Odometry data (```${robot_name}_state_*```)
-  - ```${robot_name}hero/odometry```
+  - ```${robot_name}hero/odometry```  (not available in D and F)
   - ```${robot_name}hero/wio_ekf/odom```
-  - ```${robot_name}wheel_odom```
-  - ```${robot_name}wheel_odom_wfid```
+  - ```${robot_name}wheel_odom``` (not available in D and F)
+  - ```${robot_name}wheel_odom_wfid```  (not available in D and F)
   - Topics that you shouldn't care about
     - ```${robot_name}hero/lamp/odom         ```
     - ```${robot_name}hero/lio_lamp_ekf/odom ```
@@ -38,6 +38,7 @@
     - ```${robot_name}joint_states           ```
     -  /husky1/hero/husky_all_in/odom
     -  /husky1/hero/lamp/odom_wcov 
+
 
 
 ## Spot
