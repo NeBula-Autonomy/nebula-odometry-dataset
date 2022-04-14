@@ -21,11 +21,11 @@
 # TODO
 
 - [ ] overview: 
-  - [ ] check geo-localization (Ben)
-  - [ ] cut elma photo (Andrzej)
-  - [ ] better right photo valentine (Ben?)
-  - [ ] better photo for Kentucky (Ben)
-  - [ ] one photo from darpa subt challenge of the enviornment (Ben)
+  - [x] check geo-localization (Ben)
+  - [x] cut elma photo (Andrzej)
+  - [x] better right photo valentine (Ben?)
+  - [x] better photo for Kentucky (Ben)
+  - [x] one photo from darpa subt challenge of the enviornment (Ben)
   - [ ] check robot equipment (Ben)
 - [ ] datasets:
   - [ ] check ground truth and config params (Andrzej)
