@@ -13,7 +13,7 @@ The dataset is provided by the [Team CoSTAR](https://costar.jpl.nasa.gov/) that 
 
 <img src="../images/powerplant.jpg" alt="drawing" width="800"/>
 
-## [Los Angeles Subway Station](https://www.google.com/maps?sxsrf=APq-WBs2xsWuIbnKaUCng_E2JNoqyeyrBA:1649605757386&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAEyBwghEAoQoAEyBwghEAoQoAE6BwgAEEcQsANKBAhBGABKBAhGGABQgQJYgQJg2wNoAXABeACAAXqIAXqSAQMwLjGYAQCgAQKgAQHIAQjAAQE&q=South+Hill+Street+near+Pershing+Square&um=1&ie=UTF-8&sa=X&ved=2ahUKEwinstSs7In3AhXsAxAIHZALCW8Q_AUoAXoECAEQAw)
+## [Los Angeles Subway Station](https://www.google.com/maps/place/425+S+Hill+St,+Los+Angeles,+CA+90013/@34.0489961,-118.251699,18z/data=!4m8!1m2!2m1!1sSouth+Hill+Street+near+Pershing+Square!3m4!1s0x80c2c64b6a30ca9f:0x1cd85506387e59f5!8m2!3d34.0497312!4d-118.2510744)
 
 <img src="../images/la_old_subway_old.jpeg" alt="drawing" width="400"/> <img src="../images/la_old_subway.png" alt="drawing" width="400"/>
 
