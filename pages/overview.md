@@ -50,17 +50,15 @@ LiDAR scans are recorded at 10 Hz. WIO and IMU are recorded at 50~Hz in the Urba
   - ```velodyne```
   - ```velodyne_front```
   - ```velodyne_rear```
-- 6 on-board cameras: 5 RealSense D455 (dataset not available)
 - [IMU VN100](https://www.vectornav.com/products/detail/vn-100?gclid=Cj0KCQjwxtSSBhDYARIsAEn0thQy4ZSoNNRcvUZzJBFEtlZtiIb9PiUJty0BAxZwOUEK2bK6l9XtnLIaAtTnEALw_wcB)
 - wheel encoders from Clearpath (see [here](https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/))
-- [Hovermap](https://www.emesent.io/hovermap/)  (see [here](dataset.md))
+- [Hovermap](https://www.emesent.io/hovermap/)  (see associated datasets [here](dataset.md))
 
 ## Spot
   <img src="../images/spot_equipment.png" alt="drawing" width="400"/>
 
 ### Equipment
 - 1 on-board [Velodyne’s Puck lidar sensor (VLP-16)](https://velodynelidar.com/products/puck/) LiDAR sensors 
-- Out-of-the-box kinematic-ineratial odometry (KIO) and visual-inertial odometry (VIO) measurements implemented by [Boston Dynamics](https://www.bostondynamics.com/) 
-- 6 on-board cameras: 5 RealSense D455 (dataset not available)
+- Out-of-the-box kinematic-ineratial odometry (KIO) and visual-inertial odometry (VIO) measurements implemented by [Boston Dynamics](https://www.bostondynamics.com/products/spot) 
 - [IMU VN100](https://www.vectornav.com/products/detail/vn-100?gclid=Cj0KCQjwxtSSBhDYARIsAEn0thQy4ZSoNNRcvUZzJBFEtlZtiIb9PiUJty0BAxZwOUEK2bK6l9XtnLIaAtTnEALw_wcB)
-- [Hovermap](https://www.emesent.io/hovermap/) (see [here](dataset.md))
+- [Hovermap](https://www.emesent.io/hovermap/) (see associated datasets [here](dataset.md))
