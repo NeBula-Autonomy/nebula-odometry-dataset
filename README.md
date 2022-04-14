@@ -5,7 +5,7 @@
 # NeBula odometry dataset
 
 - [Overview](pages/overview.md)
-- [Download dataset](pages/dataset.md)
+- [Download datasets](pages/dataset.md)
 - Topics and frame convention
   - [LiDAR dataset](pages/topic_lidar.md)
   - [Hovermap dataset](pages/topic_hovermap.md)
