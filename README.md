@@ -19,16 +19,4 @@
 }
 ```
 # TODO
-
-- [ ] overview: 
-  - [x] check geo-localization (Ben)
-  - [x] cut elma photo (Andrzej)
-  - [x] better right photo valentine (Ben?)
-  - [x] better photo for Kentucky (Ben)
-  - [x] one photo from darpa subt challenge of the enviornment (Ben)
-  - [ ] check robot equipment (Ben)
-- [ ] datasets:
-  - [ ] check ground truth and config params (Andrzej)
-  - [ ] Add transformation convention + draw images (Andrzej) 
-  - [ ] For darpa challenges ```${robot_name}_sensors.yaml``` (Ben & Andrzej) for calibration
-  - [ ] rename some topics in D and F dataset since it will confuse the user
+https://github.com/NeBula-Autonomy/nebula-odometry-dataset/issues/5
