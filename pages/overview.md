@@ -11,29 +11,27 @@ The dataset is provided by the [Team CoSTAR](https://costar.jpl.nasa.gov/) that 
 
 ## [Power plant located in Elma, WA](https://www.google.com/maps/place/Satsop+Nuclear+Power+Plant/@46.9616165,-123.472372,16z/data=!4m5!3m4!1s0x0:0x8a108aba7feb7724!8m2!3d46.9616231!4d-123.4675564)
 
-<img src="../images/powerplant.jpg" alt="drawing" width="800"/>
+<img src="../images/Satsop.png" alt="drawing"/>
 
 ## [Los Angeles Subway Station](https://www.google.com/maps/place/425+S+Hill+St,+Los+Angeles,+CA+90013/@34.0489961,-118.251699,18z/data=!4m8!1m2!2m1!1sSouth+Hill+Street+near+Pershing+Square!3m4!1s0x80c2c64b6a30ca9f:0x1cd85506387e59f5!8m2!3d34.0497312!4d-118.2510744)
 
-<img src="../images/la_old_subway_old.jpeg" alt="drawing" width="400"/> <img src="../images/la_old_subway.png" alt="drawing" width="400"/>
+<img src="../images/LASubway.png" alt="drawing"/>
 
 ## [Bruceton Research Mine in Pittsburgh, PA](https://www.google.com/maps/place/Bruceton+Research+Mine/@40.3040108,-79.978597,15z/data=!4m2!3m1!1s0x0:0xa44441e8bb7eb69f?sa=X&ved=2ahUKEwi4vrCP4Yn3AhVumIsKHT19BY4Q_BJ6BAhGEAM)
 
-<img src="../images/tunnel_circuit.jpg" alt="drawing" width="800"/>
+<img src="../images/Bruceton.png" alt="drawing"/>
 
 ## [Valentine Cave](https://www.google.com/maps?q=valentine+cave&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjA5ouf4Yn3AhWLuYsKHYgoCzYQ_AUoAnoECAEQBA)
 
-<img src="../images/spot.jpg" alt="drawing" width="400"/> <img src="../images/valentine_cave2.png" alt="drawing" width="400"/>
+<img src="../images/Valentine.png" alt="drawing"/>
 
 ## [Kentucky Underground Mine](https://www.google.com/maps?q=Kentucky+Underground&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjMkY_p0ZL3AhWbKkQIHUTRDfkQ_AUoAXoECAEQAw)
 
-<img src="../images/kentucky_cave3.png" alt="drawing" width="400"/><img src="../images/kentucky_cave4.png" alt="drawing" width="400"/>
+<img src="../images/KentuckyUnderground.png" alt="drawing"/>
 
 ## [Louisville Mine, artificially made circuit](https://www.google.com/maps?q=Louisville+Mine&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjFiLa47In3AhXpk4sKHb7pAZIQ_AUoAnoECAEQBA)
 
-<img src="../images/darpa1.png" alt="drawing" width="400"/><img src="../images/darpa2.png" alt="drawing" width="400"/>
-
-<img src="../images/darpa4.png" alt="drawing" width="400"/><img src="../images/darpa4.png" alt="drawing" width="400"/>
+<img src="../images/Final.png" alt="drawing"/>
 
 Each dataset is selected to contain components that are challenging for LiDAR odometry. The datasets have different duration lengths from 20 min up to 1 h (see [here](dataset.md)). The dataset provides LiDAR scans, [Hovermap scans](https://www.emesent.io/hovermap/), Inertial Measurement Unit (IMU) and wheeled and kinematic inertial odometry (WIO) measurements. All datasets have been recorded on different robotics platforms, e.g., Husky and Spot with vibrations and large, sudden accelerations as is characteristic of both a skid-steer wheeled robot traversing rough terrain (husky) and a legged robot that slips and acts dynamically in rough terrain (spot).
 The dataset is synchronized by window time stamp approach where the current time stamp looks for the closest time stamps available with maximum threshold time distance.
