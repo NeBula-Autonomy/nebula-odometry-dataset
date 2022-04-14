@@ -25,7 +25,7 @@ The dataset is provided by the [Team CoSTAR](https://costar.jpl.nasa.gov/) that 
 
 <img src="../images/spot.jpg" alt="drawing" width="400"/> <img src="../images/valentine_cave2.png" alt="drawing" width="400"/>
 
-## [Kentucky Mine](https://www.google.com/maps/place/Kentucky+Mine+Rd,+Sierra+City,+CA+96125,+USA/@39.5726142,-120.6238181,17z/data=!3m1!4b1!4m5!3m4!1s0x809c769dc30942d9:0xe860a5889640f52f!8m2!3d39.5726142!4d-120.6216294)
+## [Kentucky Underground Mine](https://www.google.com/maps?q=Kentucky+Underground&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjMkY_p0ZL3AhWbKkQIHUTRDfkQ_AUoAXoECAEQAw)
 
 <img src="../images/kentucky_cave3.png" alt="drawing" width="400"/><img src="../images/kentucky_cave4.png" alt="drawing" width="400"/>
 
