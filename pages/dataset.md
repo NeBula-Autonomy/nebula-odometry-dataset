@@ -28,16 +28,6 @@ Here, you can download the datasets.
 | J  | Kentucky Underground Limestone Mine, KY  |Tunnel| Husky1 | 2339.81  |57:55   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/RrZmws2HyM8gytD)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/3zYtj6TGJL58BKx)  | <img src="../images/13_Husky1_Kentucky_2.png" alt="drawing" width="200"/>
 | K  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 798.24   |30:56   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/e4kDe3NKYwpgBR4)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/8R9jBi69pFCyjXA)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
 | P  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 571.79   |34:13   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/anLLJdk9XpHc34q)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/P4287f8ixbcL2N7)   | <img src="../images/darpa_prelim2_1.png" alt="drawing" width="200"/>
-
-# Hovermap dataset
-|  ID | Place  | Domain  | Robot   | Distance (m) | Duration (min)  | rosbags  | Extra files  | 2D image | 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| L  | DARPA Final Louisville Cave, KY          |Mix   | Spot3  | 245.13   |11:41   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/xSebeFcG4EX9LAo)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/YQzx7kKwjyFtfLo8)  | <img src="../images/darpa1.png" alt="drawing" width="200"/>
-| M  | DARPA Final Louisville Cave, KY          |Mix   | Spot4  | 722.37   |19:57   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/9zfWpSCgSEADDYd)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/pxNowGgZDGBa5Rs)  | <img src="../images/darpa2_old.png" alt="drawing" width="200"/>
-| N  | DARPA Final Louisville Cave, KY          |Mix   | Husky2 | 325.30   |24:08   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/yyR7JkfWcAm9dEj)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/8nLdDtztKXqzBi8)   | <img src="../images/darpa3.png" alt="drawing" width="200"/>
-| O  | DARPA Final Louisville Cave, KY          |Mix   | Husky1 | 488.48   |23:48   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/w2Nryc5JXZBy5H8)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/2J4wrTL2tCXtT2X)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
-| Q  | DARPA Final Louisville Cave, KY          |Mix   | Spot3  | 744.60   |26:55   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/XNN3zwLASGZapBZ)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/iWq6pBoL7Z57Pww)   | <img src="../images/darpa_prelim2_2.png" alt="drawing" width="200"/>
-| R  | DARPA Final Louisville Cave, KY          |Mix   | Spot4 | 328.42   |13:02   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/Qga9Rtba89pe5zc)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/sawszAqJ7KZ7Cyj)    | <img src="../images/darpa_prelim2_1.png" alt="drawing" width="200"/>
  
 # Ground truth
 
@@ -56,5 +46,18 @@ The ground truth is stored in ```odometry.bag``` file. **It's important to remem
 # Initial Pose
 
 ```fiducial_calibration_${robot_name}.yaml``` contains the initial position and orientation (pose) of the robot in the global reference frame according to the 3D map.
+
+# Hovermap dataset
+
+These datasets have a rotating lidar from hovermap. These are not the focus on this dataset release, but are made available for interested researchers. 
+
+|  ID | Place  | Domain  | Robot   | Distance (m) | Duration (min)  | rosbags  | Extra files  | 2D image | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| L  | DARPA Final Louisville Cave, KY          |Mix   | Spot3  | 245.13   |11:41   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/xSebeFcG4EX9LAo)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/YQzx7kKwjyFtfLo8)  | <img src="../images/darpa1.png" alt="drawing" width="200"/>
+| M  | DARPA Final Louisville Cave, KY          |Mix   | Spot4  | 722.37   |19:57   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/9zfWpSCgSEADDYd)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/pxNowGgZDGBa5Rs)  | <img src="../images/darpa2_old.png" alt="drawing" width="200"/>
+| N  | DARPA Final Louisville Cave, KY          |Mix   | Husky2 | 325.30   |24:08   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/yyR7JkfWcAm9dEj)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/8nLdDtztKXqzBi8)   | <img src="../images/darpa3.png" alt="drawing" width="200"/>
+| O  | DARPA Final Louisville Cave, KY          |Mix   | Husky1 | 488.48   |23:48   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/w2Nryc5JXZBy5H8)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/2J4wrTL2tCXtT2X)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
+| Q  | DARPA Final Louisville Cave, KY          |Mix   | Spot3  | 744.60   |26:55   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/XNN3zwLASGZapBZ)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/iWq6pBoL7Z57Pww)   | <img src="../images/darpa_prelim2_2.png" alt="drawing" width="200"/>
+| R  | DARPA Final Louisville Cave, KY          |Mix   | Spot4 | 328.42   |13:02   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/Qga9Rtba89pe5zc)   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/sawszAqJ7KZ7Cyj)    | <img src="../images/darpa_prelim2_1.png" alt="drawing" width="200"/>
 
 
