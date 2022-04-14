@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/all_robots2.png" alt="drawing" width="1000"/>
+<img src="images/Combined.png" alt="drawing"/>
 </p>
 
 # NeBula odometry dataset
