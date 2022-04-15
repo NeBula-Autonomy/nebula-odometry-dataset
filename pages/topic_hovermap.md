@@ -4,7 +4,7 @@
 ---
 <img src="../images/husky_equpiment.jpg" alt="drawing" width="400"/>
 
-- LiDAR data (```${robot_name}_lidar_*.bag```)
+- **LiDAR/Hovermap data** (```${robot_name}_lidar_*.bag```)
   - Hovermap topics ```sensor_msgs/PointCloud2``` 
     - ```${robot_name}/hvm/lidar/points```
       - frame_id: ```${robot_name}/hovermap```
@@ -25,13 +25,13 @@
   - topics that you should not care about:
     - ```${robot_name}/velodyne_points_min_dist```
 
-- IMU data (```imu.bag```)
+- **IMU data** (```imu.bag```)
   - ```${robot_name}/vn100/imu```
     - frame_id: ```${robot_name}/vn100```
   - ```${robot_name}/vn100/imu_wori_wcov```
     - frame_id: ```${robot_name}/vn100```
 
-- Odometry data (```odometry.bag```)
+- **Odometry data** (```odometry.bag```)
   - ```${robot_name}hero/wio_ekf/odom```
     - frame_id: ```${robot_name}/odom``` 
   - ```${robot_name}wheel_odom```
@@ -45,7 +45,7 @@
 ---
   <img src="../images/spot_equipment.png" alt="drawing" width="400"/>
 
-- LiDAR data (```${robot_name}_lidar_*.bag```)
+- **LiDAR/Hovermap data** (```${robot_name}_lidar_*.bag```)
   - LiDAR topics ```sensor_msgs/PointCloud2``` 
     - ```${robot_name}/velodyne/velodyne_points```
       - frame_id: ```${robot_name}/velodyne```
@@ -56,13 +56,13 @@
   - topics that you should not care about:
     - ```${robot_name}/velodyne_points_min_dist```
 
-- IMU data (```imu.bag```) **(Note: keep in mind that in B, E IMU is not available)**
+- **IMU data** (```imu.bag```) **(Note: keep in mind that in B, E IMU is not available)**
   - ```${robot_name}/vn100/imu``` 
     - frame_id: ```${robot_name}/vn100```
   - ```${robot_name}/vn100/imu_wori_wcov```
     - frame_id: ```${robot_name}/vn100```
 
-- Odometry data (```odometry.bag```)
+- **Odometry data** (```odometry.bag```)
   - ```${robot_name}/kinematic_odom```
      - frame_id: ```${robot_name}/odom``` 
   - ```${robot_name}/visual_odom```
