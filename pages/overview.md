@@ -35,7 +35,7 @@ The dataset is provided by the [Team CoSTAR](https://costar.jpl.nasa.gov/) that 
 
 Each dataset is selected to contain components that are challenging for LiDAR odometry. The datasets have different duration lengths from 20 min up to 1 h (see [here](dataset.md)). The dataset provides LiDAR scans, [Hovermap scans](https://www.emesent.io/hovermap/), Inertial Measurement Unit (IMU) and wheeled and kinematic inertial odometry (WIO) measurements. All datasets have been recorded on different robotics platforms, e.g., Husky and Spot with vibrations and large, sudden accelerations as is characteristic of both a skid-steer wheeled robot traversing rough terrain (husky) and a legged robot that slips and acts dynamically in rough terrain (spot).
 The dataset is synchronized by window time stamp approach where the current time stamp looks for the closest time stamps available with maximum threshold time distance.
-LiDAR scans are recorded at 10 Hz. WIO and IMU are recorded at 50~Hz in the Urban datasets, while a higher-rate IMU recording (100 Hz) is available for the Tunnel and Cave dataset.
+LiDAR scans are recorded at 10 Hz. WIO and IMU are recorded at 50 Hz in the Urban datasets, while a higher-rate IMU recording (100 Hz) is available for the Tunnel and Cave dataset.
 
 # Robot Equipment
 

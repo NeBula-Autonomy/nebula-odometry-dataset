@@ -6,6 +6,9 @@
 
 Here, you can download the datasets. 
 - ```Rosbags``` - bag files to run
+  - ```${robot_name}_lidar_*.bag``` - LiDAR scans (velodyne packets as well)
+  - ```imu.bag``` - imu data from VN100 (covariance also included)
+  - ```odometry.bag``` - different types of odometry data (wheeled, kinematic, visual)
 - ```Extra files```:
   - ```odometry.bag``` - rosbag file that has a ground truth trajectory
   - ```*.ply```, ```*.pcd``` - 3D map provides information of the scanned 3D map

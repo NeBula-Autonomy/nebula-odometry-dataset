@@ -32,13 +32,13 @@
     - frame_id: ```${robot_name}/vn100```
 
 - **Odometry data** (```odometry.bag```)
-  - ```${robot_name}hero/wio_ekf/odom```
+  - ```${robot_name}hero/wio_ekf/odom``` (wheeled-inertial odometry done by )
     - frame_id: ```${robot_name}/odom``` 
   - ```${robot_name}wheel_odom```
     - frame_id: ```${robot_name}/odom``` 
-  - ```${robot_name}/hvm/odometry```
+  - ```${robot_name}/hvm/odometry```  (output of Emesent Hovermap odometry)
     - frame_id: ```${robot_name}/odom``` 
-  - ```${robot_name}/hvm/odometry_transformed```
+  - ```${robot_name}/hvm/odometry_transformed``` (output of Emesent Hovermap odometry transformed to )
     - frame_id: ```${robot_name}/odom``` 
 
 ## Spot
@@ -63,11 +63,11 @@
     - frame_id: ```${robot_name}/vn100```
 
 - **Odometry data** (```odometry.bag```)
-  - ```${robot_name}/kinematic_odom```
+  - ```${robot_name}/kinematic_odom``` (sometimes called legged odometry)
      - frame_id: ```${robot_name}/odom``` 
-  - ```${robot_name}/visual_odom```
+  - ```${robot_name}/visual_odom``` (output of Boston Dynamics visual odometry algorithm)
     - frame_id: ```${robot_name}/odom``` 
-  - ```${robot_name}/hvm/odometry```
+  - ```${robot_name}/hvm/odometry``` (output of Emesent Hovermap odometry)
     - frame_id: ```${robot_name}/odom``` 
-  - ```${robot_name}/hvm/odometry_transformed```
+  - ```${robot_name}/hvm/odometry_transformed``` (output of Emesent Hovermap odometry transformed to )
     - frame_id: ```${robot_name}/odom``` 
