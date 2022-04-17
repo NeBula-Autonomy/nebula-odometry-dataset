@@ -24,5 +24,3 @@
   publisher={TODO}
 }
 ```
-# TODO
-https://github.com/NeBula-Autonomy/nebula-odometry-dataset/issues/5
