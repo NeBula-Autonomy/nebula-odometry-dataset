@@ -15,6 +15,9 @@
 <img src="images/all_robots2.png" alt="drawing" width="1000"/>
 
 # Cite
+
+If you use this dataset in your research, we would kindly ask that you cite the following publication:
+
 ```
 @article{reinke2022iros,
   title={LOCUS 2.0: Robust and Computationally Efficient LiDAR Odometry for Real-Time Underground 3D Mapping},
