@@ -20,13 +20,14 @@ If you use this dataset in your research, we would kindly ask that you cite the 
 
 ```
 @article{reinke2022iros,
-  title={LOCUS 2.0: Robust and Computationally Efficient LiDAR Odometry for Real-Time Underground 3D Mapping},
+  title={LOCUS 2.0: Robust and Computationally Efficient LiDAR Odometry for Real-Time 3D Mapping},
   author={Andrzej Reinke, Matteo Palieri, Benjamin Morrell, Yun Chang, Kamak Ebadi, Luca Carlone, Ali-akbar Agha-mohammadi},
-  journal={TODO},
+  journal={IEEE Robotics and Automation Letters},
   year={2022},
-  publisher={TODO}
 }
 ```
+
+Paper available on arXiv [here](https://arxiv.org/abs/2205.11784)
 
 # Problems or clarification needed?
 Submit ticket [here](https://github.com/NeBula-Autonomy/nebula-odometry-dataset/issues)
