@@ -24,6 +24,8 @@ If you use this dataset in your research, we would kindly ask that you cite the 
   author={Andrzej Reinke, Matteo Palieri, Benjamin Morrell, Yun Chang, Kamak Ebadi, Luca Carlone, Ali-akbar Agha-mohammadi},
   journal={IEEE Robotics and Automation Letters},
   year={2022},
+  publisher={TODO}
+  doi={10.1109/LRA.2022.3181357}
 }
 ```
 
