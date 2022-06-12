@@ -19,14 +19,15 @@
 If you use this dataset in your research, we would kindly ask that you cite the following publication:
 
 ```
-@article{reinke2022iros,
-  title={LOCUS 2.0: Robust and Computationally Efficient LiDAR Odometry for Real-Time 3D Mapping},
-  author={Andrzej Reinke, Matteo Palieri, Benjamin Morrell, Yun Chang, Kamak Ebadi, Luca Carlone, Ali-akbar Agha-mohammadi},
-  journal={IEEE Robotics and Automation Letters},
+@ARTICLE{reinke2022iros,
+  author={Reinke, Andrzej and Palieri, Matteo and Morrell, Benjamin and Chang, Yun and Ebadi, Kamak and Carlone, Luca and Agha-Mohammadi, Ali-Akbar},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={LOCUS 2.0: Robust and Computationally Efficient Lidar Odometry for Real-Time 3D Mapping}, 
   year={2022},
-  publisher={TODO}
-  doi={10.1109/LRA.2022.3181357}
-}
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2022.3181357}}
 ```
 
 Paper available on arXiv [here](https://arxiv.org/abs/2205.11784)
