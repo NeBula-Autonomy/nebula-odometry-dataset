@@ -1,5 +1,5 @@
 # NOTICE: We are currently having issues with our data storage and are in the process of migrating server. Currently the data is not accessible. We will update this page as soon as the data becomes available. 
-## UPDATE 1: A,B,C available
+## UPDATE 1: A,B,C, D available
 
 <p align="center">
 <img src="images/Combined.png" alt="drawing" width="1000"/>
