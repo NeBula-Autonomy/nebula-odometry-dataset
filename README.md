@@ -1,5 +1,5 @@
 # NOTICE: We are currently having issues with our data storage and are in the process of migrating server. Currently the data is not accessible. We will update this page as soon as the data becomes available. 
-## UPDATED STATUS: A,B,C,D,E,F, G available
+## UPDATED STATUS: A,B,C,D,E,F,G,H,I available
 
 <p align="center">
 <img src="images/Combined.png" alt="drawing" width="1000"/>
