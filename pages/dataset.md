@@ -34,7 +34,7 @@ Here, you can download the datasets.
 | K  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 798.24   |30:56   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/e4kDe3NKYwpgBR4) | 15.5 |[click](https://nextcloud.robotics.caltech.edu/index.php/s/8R9jBi69pFCyjXA)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
 | N  | DARPA Final Louisville Cave, KY          |Mix   | Husky2 | 325.30   |24:08   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/yyR7JkfWcAm9dEj)|  31.0 |[click](https://nextcloud.robotics.caltech.edu/index.php/s/8nLdDtztKXqzBi8)   | <img src="../images/darpa3.png" alt="drawing" width="200"/>
 | O  | DARPA Final Louisville Cave, KY          |Mix   | Husky1 | 488.48   |23:48   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/w2Nryc5JXZBy5H8) | 47.4 |[click](https://nextcloud.robotics.caltech.edu/index.php/s/2J4wrTL2tCXtT2X)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
-| P  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 571.79   |34:13   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/anLLJdk9XpHc34q) | 12.3 |[click](https://nextcloud.robotics.caltech.edu/index.php/s/P4287f8ixbcL2N7)   | <img src="../images/darpa_prelim2_1.png" alt="drawing" width="200"/>
+| P  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 571.79   |34:13   |[click (updated)](https://drive.google.com/drive/folders/1y8hWKj_GoXS1rhKq0El9GlNAppTEATt3?usp=sharing) | 12.3 |[click](https://nextcloud.robotics.caltech.edu/index.php/s/P4287f8ixbcL2N7)   | <img src="../images/darpa_prelim2_1.png" alt="drawing" width="200"/>
 
  
 # Ground truth
