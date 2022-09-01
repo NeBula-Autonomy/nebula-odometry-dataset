@@ -1,6 +1,3 @@
-# NOTICE: We are currently having issues with our data storage and are in the process of migrating server. Currently the data is not accessible. We will update this page as soon as the data becomes available. 
-# UPDATE: All the datasets marked with flag updated is already MIGRATED
-
 <p align="center">
 <img src="../images/all_robots2.png" alt="drawing" width="1000"/>
 </p>
@@ -33,8 +30,8 @@ Here, you can download the datasets.
 | I  | Kentucky Underground Limestone Mine, KY  |Tunnel| Spot1  | 768.82   |19:28   |[click (updated)](https://drive.google.com/drive/folders/1uqn7Y_Gb17DeTGKDdGyyPzQ8NDQd-F74?usp=sharing) | 9.4 |[click (updated)](https://drive.google.com/drive/folders/1jRQh2nYmTNfpFg11LbMUYmLbWb-TDKzB?usp=sharing)   | <img src="../images/12_Spot1_Loop_Kentucky_2.png" alt="drawing" width="200"/>
 | J  | Kentucky Underground Limestone Mine, KY  |Tunnel| Husky1 | 2339.81  |57:55   |[click (updated)](https://drive.google.com/drive/folders/1z9UNc06GuE_uOoCEU7ni1BWYcS6plPER?usp=sharing) | 79.0 |[click (updated)](https://drive.google.com/drive/folders/1CKx3RrP5DnkKnORpBGOZoXNNg_RFT6ZM?usp=sharing)  | <img src="../images/13_Husky1_Kentucky_2.png" alt="drawing" width="200"/>
 | K  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 798.24   |30:56   |[click (updated)](https://drive.google.com/drive/folders/1Z_ABh8fiBSh872sfe8UGV3z2mgVoUmby?usp=sharing) | 15.5 |[click (updated)](https://drive.google.com/drive/folders/19kZWXaJ4Z91O0VsJ68wm4d2CMX_vgX-p?usp=sharing)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
-| N  | DARPA Final Louisville Cave, KY          |Mix   | Husky2 | 325.30   |24:08   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/yyR7JkfWcAm9dEj)|  31.0 |[click (updated)](https://drive.google.com/drive/folders/1J2WNgKlKOwuSEX8aCojiS3339IBR3ClN?usp=sharing)   | <img src="../images/darpa3.png" alt="drawing" width="200"/>
-| O  | DARPA Final Louisville Cave, KY          |Mix   | Husky1 | 488.48   |23:48   |[click](https://nextcloud.robotics.caltech.edu/index.php/s/w2Nryc5JXZBy5H8) | 47.4 |[click (updated)](https://drive.google.com/drive/folders/1QRtmjMUf3uLCbB5B2nMTnuW8SyjSOOcW?usp=sharing)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
+| N  | DARPA Final Louisville Cave, KY          |Mix   | Husky2 | 325.30   |24:08   |[click (updated)](https://drive.google.com/drive/folders/1XltO_PuvZuJ1XJoP1xjx6G6GQebOQsOr?usp=sharing)|  31.0 |[click (updated)](https://drive.google.com/drive/folders/1J2WNgKlKOwuSEX8aCojiS3339IBR3ClN?usp=sharing)   | <img src="../images/darpa3.png" alt="drawing" width="200"/>
+| O  | DARPA Final Louisville Cave, KY          |Mix   | Husky1 | 488.48   |23:48   |[click [updated]](https://drive.google.com/drive/folders/1wq1ZMpPG4FFoxSghgU9KY01NdSX3aQd2?usp=sharing) | 47.4 |[click (updated)](https://drive.google.com/drive/folders/1QRtmjMUf3uLCbB5B2nMTnuW8SyjSOOcW?usp=sharing)   | <img src="../images/darpa1.png" alt="drawing" width="200"/>
 | P  | DARPA Final Louisville Cave, KY          |Mix   | Spot1  | 571.79   |34:13   |[click (updated)](https://drive.google.com/drive/folders/1y8hWKj_GoXS1rhKq0El9GlNAppTEATt3?usp=sharing) | 12.3 |[click (updated)](https://drive.google.com/drive/folders/1CDif8WGy6PD8WIKTZbkg5M0dckRY_2N8?usp=sharing)   | <img src="../images/darpa_prelim2_1.png" alt="drawing" width="200"/>
 
  
